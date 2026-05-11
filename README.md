@@ -1,4 +1,4 @@
-# Antithesis Aether MK1
+# Antithesis Aether MK1.1
 
 
 
@@ -8,7 +8,8 @@ The Antithesis Aether is a parallel development of the original. It heavily uses
 
 
 
-Currently the Aether is still in development and it hasn't been tested to the extent of the MK3.1. As such you may encounter issues and oversights. Everything including the CAD and BOM is subject to change daily or weekly. There probably won't be major changes to the BOM at this point but expect minor changes. The github will be updated with more documentation in the future but will be fairly sparse for now.
+The build guide is currently a little outdated but will still provide valuable information. It currently doesn't have a section for the assembly of the metal gantry version. 
+Please note: The files for the onboard power supply can be found [**HERE**](https://github.com/antithesisengineering/Antithesis-EPP-LOP-Onboard-Power-Supply) 
 
 ## 
 
